@@ -6,7 +6,7 @@ module.exports = {
     connection: {
       host: '127.0.0.1',
       user: 'postgres',
-      password: 'hello123',
+      password: 'password',
       database: 'post_tracker',
       charset: 'utf8'
     },
