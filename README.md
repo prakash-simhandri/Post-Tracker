@@ -3,7 +3,7 @@
 How to run the project ?
 
 1. installed dependencies
-2. Ensure you are using Node version v10.16.0
+2. Ensure you are using Node version v13.14.0
 3. `npm install` to install the dependencies
 4. Set up the DB in postgres knexfile.js . Run the command `knex migrate:latest`.
 5. Create a .env file in the root directory of the project and update the required variables.
